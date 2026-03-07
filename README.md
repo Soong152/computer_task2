@@ -13,12 +13,17 @@ Contents:
  * Definition and construction
  * Demonstration
  * Implementation
-   
 -Huffman coding
  * Definition and construction
  * Demonstration
  * Implementation
 
+ User Guide :
+ -------------
+ * the way to use code:
+ * video explanation:
+
+ 
 Installation: 
 -------------
 Run the Python script
