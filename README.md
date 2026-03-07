@@ -18,4 +18,4 @@ Files：
 --------
 - `Huffman_coding.py`: Defines the Huffman tree node class
 - `Huffman_tree.py`: Implements tree building, encoding, and decoding logic
-- `main.py`: Demonstration program showing compression results
+
