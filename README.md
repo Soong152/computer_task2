@@ -11,11 +11,17 @@ Contents:
 ---------
 -Huffman tree
  * Definition and construction
- * 
+ * Demonstration
+ * Implementation
+   
+-Huffman coding
+ * Definition and construction
+ * Demonstration
+ * Implementation
 
-
-Files：
---------
+Installation: 
+-------------
+Run the Python script
 - `Huffman_coding.py`: Defines the Huffman tree node class
 - `Huffman_tree.py`: Implements tree building, encoding, and decoding logic
 
